@@ -11,6 +11,11 @@ We will be creating a JSON file to use in our next lab.
 
 - A server that serves a JSON file that you created.
 
+### Create a Server with Express
+
+- [ ] Install the project's dependencies using `npm install`
+- [ ] Start the server by running `index.js` using `npm run dev`.
+- [ ] Visit your running server at `http://localhost:3000` with a web browser.
 
 ## Creating the JSON
 
